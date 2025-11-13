@@ -65,7 +65,7 @@ lite({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363402507750390@newsletter',
+                    newsletterJid: '120363419893616380@newsletter',
                     newsletterName: '『 sᴜʜᴏ ᴍᴅ 』',
                     serverMessageId: 143
                 }
