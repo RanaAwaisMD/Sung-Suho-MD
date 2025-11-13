@@ -40,7 +40,7 @@ lite({
                 forwardingScore: 1000,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363398430045533@newsletter',
+                    newsletterJid: '120363419893616380@newsletter',
                     newsletterName: config.BOT_NAME.toUpperCase(),
                     serverMessageId: 143
                 }
